@@ -1,4 +1,4 @@
-const CACHE_NAME = 'hospital-translator-v2';
+const CACHE_NAME = 'hospital-translator-v3';
 const ASSETS = [
   './',
   './index.html',
